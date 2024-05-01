@@ -5,7 +5,5 @@
 - 😄 Let's go
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Oxygen1a1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![oxygen1a1's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Oxygen1a1)](https://github.com/anuraghazra/github-readme-stats)
+![oxygen1a1's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Oxygen1a1&show_icons=true&count_private=true&theme=gotham)
