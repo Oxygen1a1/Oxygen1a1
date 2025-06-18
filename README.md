@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oxygen1a1
 - 👀 I’m interested in reverse engineering and anti cheat
 - 👨 I work as an anti-cheat engineer
-- 🌱 I’m currently learning ARM64
+- 🌱 I’m currently learning Unreal engine
 - 😄 Let's go
 
 
